@@ -15,7 +15,7 @@ No bot, no account, your own AI key.
 ![macOS 14.2+](https://img.shields.io/badge/macOS-14.2%2B-111?logo=apple)
 ![Windows 10+](https://img.shields.io/badge/Windows-10%2B-111?logo=windows)
 
-[**Download**](#download) · [**Release notes**](https://github.com/nikita-biichuk/meetings-summarizer-releases/releases) · [**Report a problem**](https://github.com/nikita-biichuk/meetings-summarizer-releases/issues)
+[**Website**](https://meetings-summarizer-website.vercel.app/) · [**Download**](#download) · [**Release notes**](https://github.com/nikita-biichuk/meetings-summarizer-releases/releases) · [**Report a problem**](https://github.com/nikita-biichuk/meetings-summarizer-releases/issues)
 
 </div>
 
@@ -75,7 +75,7 @@ After that, the app checks this page for new versions and updates itself.
 
 ## Questions and problems
 
-[Open an issue](https://github.com/nikita-biichuk/meetings-summarizer-releases/issues) with your app version and what you expected to happen.
+[Open an issue](https://github.com/nikita-biichuk/meetings-summarizer-releases/issues) with your app version and what you expected to happen. More about the app is on the [website](https://meetings-summarizer-website.vercel.app/).
 
 <div align="center">
 <sub>Made for people who would rather listen than type.</sub>
